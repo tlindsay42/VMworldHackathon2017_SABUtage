@@ -275,4 +275,3 @@ Foreach ($vmhost in $vmhosts) {
         Write-Host "Ping of Primary: $1PrimaryIP Failed" -ForegroundColor Red
     }
     Write-Host "Pinging $SecondarySR from $witness
-    
