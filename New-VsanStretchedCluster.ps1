@@ -8,7 +8,7 @@ Function New-VsanStretchedCluster
   [CmdletBinding()]
   Param (
     [string] $ConfigFilePath,
-    [PSCredential] $VcenterCredentials = Get-Credential -Message 'Please enter the vCenter Server SSO credentials' -UserName 'administrator@vsphere.local' -ErrorAction Stop
+    [PSCredential] $VcenterCredentials = ( Get-Credential -Message 'Please enter the vCenter Server SSO credentials' -UserName 'administrator@vsphere.local' -ErrorAction Stop )
   )
 
   Begin
