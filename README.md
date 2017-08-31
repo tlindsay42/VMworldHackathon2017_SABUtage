@@ -71,7 +71,7 @@ Network = vxw-dvs-42-virtualwire-4-sid-5003-Team4
 * Post-config deployment
 * Validation tests
 
-# Tasks
+## Tasks
 * Ben
   * Witness deployment
 * Steve
