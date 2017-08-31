@@ -39,7 +39,7 @@ Network = vxw-dvs-42-virtualwire-4-sid-5003-Team4
 * Separate witness vmkernel adapter?
 * Vester to implement host config?
 
-## Project Questions
+### Project Questions
 * Do we want to start a git repo for this?
 
 ## Requirements
@@ -77,5 +77,5 @@ Network = vxw-dvs-42-virtualwire-4-sid-5003-Team4
 * Steve
   * HA setup
   * DRS setup
-* 
-* 
+* Troy
+  * UI
