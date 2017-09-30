@@ -1,9 +1,9 @@
 # VMworldHackathon2017_SABUtage
 
-VMworld US 2017 Hackathon
-Sponsored by [VMware {code}](https://code.vmware.com "VMware {code} homepage")
-Team SABUtage
-August 28, 2017
+* VMworld US 2017 Hackathon
+* Sponsored by [VMware {code}](https://code.vmware.com "VMware {code} homepage")
+* Team SABUtage
+* August 28, 2017
 
 ## Goal
 
