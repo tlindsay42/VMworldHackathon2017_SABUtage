@@ -1,6 +1,7 @@
 # VMworldHackathon2017_SABUtage
 
 * VMworld US 2017 Hackathon
+* Sponsored by [VMware {code}](https://code.vmware.com "VMware {code} homepage")
 * Team SABUtage
 * August 28, 2017
 
@@ -10,7 +11,9 @@
 
 ## Team Members
 
-* Team Lead: Jase McCarty @jasemccarty
+[Roster](https://docs.google.com/spreadsheets/d/1M0sFAG2N9Zpa5H-e869eTmOaYiwuKKwlgCzP2k_wWCM/edit?usp=sharing)
+
+* Jase McCarty @jasemccarty (team lead)
 * Cormac Hogan @cormachogan
 * Ben Meadowcroft @benmeadowcroft
 * Tony Reeves @importcarguy
