@@ -1,59 +1,20 @@
 # VMworldHackathon2017_SABUtage
 
-## Questions
+* VMworld US 2017 Hackathon
+* Team SABUtage
+* August 28, 2017
 
-### Infrastructure Questions
+## Goal
 
-* Number of virtual sites (3?)?
-  * Separate network per virtual site?
-  * Number of hosts per virtual site?
-* dvSwitch?
-* Jumbo frames (y/n)?
-* Separate witness vmkernel adapter?
-* Vester to implement host config?
+* We are going to use PowerCLI to automate an end-to-end setup of a vSAN stretched cluster. Right now, there are a bunch of manual steps involved around HA, DRS, affinity groups, etc. The objective will be to have this automated (and learn something along the way).
 
-### Project Questions
+## Team Members
 
-* [tbd]
-
-## Requirements
-
-### Infrastructure Requirements
-
-* vmkernel adapter per host
-  * VSAN service enabled
-  * Networks
-    * [tbd]
-  * IP addresses
-    * [tbd]
-  * Other
-* DRS enabled
-  * Automation level
-* HA initially disabled
-* vSAN configured
-* HA enabled
-* Witness host appliance OVA
-  * Downloaded
-* Vester
-  * Config directory
-  * Config json
-
-### Project Requirements
-
-* Config
-* Prerequisites deployment
-* Validation tests
-* VSAN config deployment
-* Validation tests
-* Post-config deployment
-* Validation tests
-
-## Tasks
-
-* Ben
-  * Witness deployment
-* Steve
-  * HA setup
-  * DRS setup
-* Troy
-  * UI
+* Team Lead: Jase McCarty @jasemccarty
+* Cormac Hogan @cormachogan
+* Ben Meadowcroft @benmeadowcroft
+* Tony Reeves @importcarguy
+* Troy Lindsay @troylindsay42
+* Steve Kaplan @stvkpln
+* Andreas Scherr @andreasscherr
+* David Prows @commputethis
