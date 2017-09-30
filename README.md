@@ -1,13 +1,13 @@
 # VMworldHackathon2017_SABUtage
 
-* VMworld US 2017 Hackathon
-* Sponsored by [VMware {code}](https://code.vmware.com "VMware {code} homepage")
-* Team SABUtage
-* August 28, 2017
+VMworld US 2017 Hackathon
+Sponsored by [VMware {code}](https://code.vmware.com "VMware {code} homepage")
+Team SABUtage
+August 28, 2017
 
 ## Goal
 
-* We are going to use PowerCLI to automate an end-to-end setup of a vSAN stretched cluster. Right now, there are a bunch of manual steps involved around HA, DRS, affinity groups, etc. The objective will be to have this automated (and learn something along the way).
+We are going to use PowerCLI to automate an end-to-end setup of a vSAN stretched cluster. Right now, there are a bunch of manual steps involved around HA, DRS, affinity groups, etc. The objective will be to have this automated (and learn something along the way).
 
 ## Team Members
 
