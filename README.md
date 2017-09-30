@@ -1,7 +1,9 @@
 # VMworldHackathon2017_SABUtage
 
 ## Questions
+
 ### Infrastructure Questions
+
 * Number of virtual sites (3?)?
   * Separate network per virtual site?
   * Number of hosts per virtual site?
@@ -11,16 +13,19 @@
 * Vester to implement host config?
 
 ### Project Questions
-* 
+
+* [tbd]
 
 ## Requirements
+
 ### Infrastructure Requirements
+
 * vmkernel adapter per host
   * VSAN service enabled
   * Networks
-    *  
+    * [tbd]
   * IP addresses
-    *  
+    * [tbd]
   * Other
 * DRS enabled
   * Automation level
@@ -32,8 +37,9 @@
 * Vester
   * Config directory
   * Config json
-	
+
 ### Project Requirements
+
 * Config
 * Prerequisites deployment
 * Validation tests
@@ -43,6 +49,7 @@
 * Validation tests
 
 ## Tasks
+
 * Ben
   * Witness deployment
 * Steve
